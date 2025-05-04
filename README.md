@@ -1,1 +1,1 @@
-This seeks to download and categorize hospital and financial data
+This project seeks to scrape and organize hospital and financial data
